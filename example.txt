@@ -1,0 +1,1 @@
+This is an example file to demonstrate Git workflow in VS Code.
